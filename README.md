@@ -67,6 +67,14 @@ Projeto que permite a listagem, visualização detalhada e cadastro de receitas 
 
 ![micro&sabor - listagem](assets/preview/novaReceita.png)  
 
+---
+
+### 🛍️ Lojix 
+Projeto que permite a listagem, e busca filtrada de items de uma loja ficticia.
+ 
+- Página principal
+  
+![lojix - main page](assets/preview/lojixMainPage.png)  
 
 ## 🚀 Tecnologias utilizadas
 
